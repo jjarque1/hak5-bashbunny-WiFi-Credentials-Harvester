@@ -25,6 +25,10 @@ This payload demonstrates how Wi-Fi credentials can be easily accessed on machin
 
 This payload is developed for ethical hacking and educational purposes only. Unauthorized use of this script to access Wi-Fi credentials on any device without explicit permission is illegal and unethical. Always ensure you have proper authorization before running this script.
 
+## Liability Disclaimer
+
+The author of this payload assumes no responsibility for any illegal or unethical use of the code. This payload is provided as-is, and it is the user's responsibility to ensure its use complies with all applicable laws and regulations.
+
 ## Usage
 
 1. Insert the Bash Bunny into the target machine.
